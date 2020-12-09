@@ -1,0 +1,17 @@
+{
+    "name": "@fxxy/print",
+    "version": "1.0.0",
+    "description": "打印相关",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/2674098063/print.git"
+    },
+    "main": "index.js",
+    "keywords": [
+        "tiny",
+        "npm",
+        "package",
+        "bamblehorse"
+    ]
+}
