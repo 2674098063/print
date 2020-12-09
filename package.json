@@ -1,7 +1,7 @@
 {
-    "name": "fxxy-print-private",
+    "name": "fxxy-print-forzkb",
     "version": "1.0.11",
-    "description": "",
+    "description": "vue打印插件\r **使用方法**",
     "license": "ISC",
     "main": "index.js",
     "keywords": [
