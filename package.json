@@ -1,6 +1,6 @@
 {
-    "name": "@fxxy/print",
-    "version": "1.0.0",
+    "name": "fxxyprint",
+    "version": "1.0.1",
     "description": "打印相关",
     "license": "ISC",
     "main": "index.js",
