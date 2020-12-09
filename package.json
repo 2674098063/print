@@ -1,12 +1,11 @@
 {
-    "name": "fxxyprint",
-    "version": "1.0.1",
+    "name": "fxxy-print-private",
+    "version": "1.0.11",
     "description": "打印相关",
     "license": "ISC",
     "main": "index.js",
     "keywords": [
-        "print",
-        "fxxy"
+        "print"
     ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
