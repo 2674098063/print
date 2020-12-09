@@ -1,0 +1,23 @@
+{
+    "name": "@fxxy/print",
+    "version": "1.0.0",
+    "description": "打印相关",
+    "license": "ISC",
+    "main": "index.js",
+    "keywords": [
+        "print",
+        "fxxy"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/2674098063/print.git"
+    },
+    "author": "",
+    "bugs": {
+        "url": "https://github.com/2674098063/print/issues"
+    },
+    "homepage": "https://github.com/2674098063/print#readme"
+}
